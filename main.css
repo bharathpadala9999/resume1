@@ -1,0 +1,25 @@
+.mainDiv{
+background: #2C3E50;
+height: 250px;
+
+display: flex;
+justify-content: space-around;
+}
+.sub1{
+  background: red;
+  border-radius: 10px;
+  box-shadow: 2px 5px 0 0 #6E6968;
+}
+.sub2{
+  background: green;
+  border-radius: 10px;
+    box-shadow: 2px 5px 0 0 #6E6968;
+}
+.sub3{
+  background: blue;
+border-radius: 10px;
+  box-shadow: 2px 5px 0 0 #6E6968;
+}
+body{
+  background: #D0D3D4;
+}
